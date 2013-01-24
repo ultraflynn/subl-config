@@ -314,21 +314,33 @@
 			},
 			"buffers":
 			[
-				{
-					"contents": "",
-					"settings":
-					{
-						"buffer_size": 0,
-						"line_ending": "Windows"
-					}
-				}
 			],
 			"build_system": "Packages/Java/JavaC.sublime-build",
 			"command_palette":
 			{
-				"height": 265.0,
+				"height": 58.0,
 				"selected_items":
 				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Package Control: Remove Package"
+					],
+					[
+						"package control remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"package control",
+						"Package Control: List Packages"
+					],
 					[
 						"pacakge",
 						"Package Control: Upgrade/Overwrite All Packages"
@@ -387,6 +399,11 @@
 			},
 			"file_history":
 			[
+				"/C/Documents and Settings/bigginm/Application Data/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+				"/C/Documents and Settings/bigginm/Application Data/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+				"/C/Documents and Settings/bigginm/Application Data/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+				"/C/Documents and Settings/bigginm/Application Data/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Documents and Settings/bigginm/Application Data/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
 				"/C/Documents and Settings/bigginm/Application Data/Sublime Text 2/Packages/User/Preferences.sublime-settings",
 				"/C/bigginm/lib/apache-camel-2.9.1/camel-core/src/test/java/org/apache/camel/builder/NotifyBuilderTest.java",
 				"/C/bigginm/lib/apache-camel-2.9.1/camel-core/src/test/java/org/apache/camel/ContextTestSupport.java",
@@ -413,10 +430,8 @@
 				"/C/bigginm/dev/action/source/fitp-server/fitp-java/cameloutbound-test/src/test/resources/clientclearing/trade-cdsbasketindex.json",
 				"/C/bigginm/dev/action/source/fitp-server/fitp-java/cameloutbound-test/src/test/resources/clientclearing/trade-fixedcashflows.json",
 				"/C/bigginm/dev/action/source/fitp-server/fitp-java/cameloutbound-test/src/test/resources/clientclearing/trade-interestrateswap.json",
-				"/C/Documents and Settings/bigginm/Application Data/Sublime Text 2/Packages/User/Package Control.sublime-settings",
 				"/C/bigginm/dev/action/source/fitp-server/fitp-config/linuxbuild/scripts/mavenbuild.sh",
 				"/C/Documents and Settings/bigginm/Application Data/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
-				"/C/Documents and Settings/bigginm/Application Data/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
 				"/C/bigginm/dev/action/source/fitp-server.sublime-project",
 				"/C/bigginm/dev/research/s2_riskengine/UnityRisk-RiskEngine/src/test/java/com/nomura/unity/risk/trade/UnitySonicTradeSourceTest.java",
 				"/C/bigginm/dev/research/s2_riskengine/UnityRisk-RiskEngine/src/main/java/com/nomura/unity/risk/trade/SonicSnapshotTradeQuery.java",
@@ -452,7 +467,6 @@
 				"/C/Documents and Settings/bigginm/Desktop/release.txt",
 				"/C/bigginm/dev/action/test/003-multiple-sync-short-cq.json",
 				"/C/bigginm/dev/action/source/fitp-server/fitp-java/sonicqueryservice-stresstest/src/main/java/com/nomura/fitp/queryservice/test/DefaultSqsClient.java",
-				"/C/Documents and Settings/bigginm/Application Data/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
 				"/C/bigginm/dev/action/source/fitp-server/fitp-java/bootstrap/src/main/java/com/nomura/fitp/bootstrap/Bootstrap2.java",
 				"/C/bigginm/dev/action/source/mesh/src/main/java/com/nomura/fid/core/mesh/console/MeshMain.java",
 				"/C/bigginm/dev/action/source/fitp-server/fitp-java/tradingservices-runtime/src/main/java/com/nomura/fitp/tradingservices/model/actions/ReferenceDataValidator.java",
@@ -484,6 +498,9 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"ctrl+",
+					"ctrl\\-",
+					"ctrl-",
 					"createCamelContext",
 					"context",
 					" body",
@@ -579,35 +596,8 @@
 			"groups":
 			[
 				{
-					"selected": 0,
 					"sheets":
 					[
-						{
-							"buffer": 0,
-							"settings":
-							{
-								"buffer_size": 0,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"auto_name": "",
-									"syntax": "Packages/Text/Plain text.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						}
 					]
 				}
 			],

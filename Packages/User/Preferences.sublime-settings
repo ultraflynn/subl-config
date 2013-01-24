@@ -1,6 +1,9 @@
 {
 	"color_scheme": "Packages/Color Scheme - Default/Monokai Bright.tmTheme",
 	"font_size": 15,
-	"vintage_start_in_command_mode": true,
-    "scroll_speed": 0.0
+	"ignored_packages":
+	[
+	],
+	"scroll_speed": 0.0,
+	"vintage_start_in_command_mode": true
 }

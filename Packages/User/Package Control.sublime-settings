@@ -1,6 +1,16 @@
 {
-	"auto_upgrade_last_run": 1359020123,
+	"auto_upgrade_last_run": 1359037146,
 	"http_proxy": "lobluecoatp8.nomura.com:80",
-	"proxy_password": "L0ngmyndH1ke",
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"Dayle Rees Color Schemes",
+		"Git",
+		"JSLint",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter"
+	],
+	"proxy_password": "M00nL1ght",
 	"proxy_username": "EUROPE\\bigginm"
 }

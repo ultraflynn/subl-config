@@ -1,9 +1,9 @@
 {
 	"folder_history":
 	[
+		"/C/bigginm/dev/action/source/fitp-server",
 		"/C/bigginm/lib/apache-camel-2.9.1",
 		"/C/bigginm/dev/action/PricapUpdate",
-		"/C/bigginm/dev/action/source/fitp-server",
 		"/C/bigginm/dev/research/s2_riskengine/UnityRisk-RiskEngine",
 		"/C/bigginm/dev/research/unity-risk-engine",
 		"/C/bigginm/GitHub/scrimmage",
@@ -318,9 +318,29 @@
 			"build_system": "Packages/Java/JavaC.sublime-build",
 			"command_palette":
 			{
-				"height": 58.0,
+				"height": 392.0,
 				"selected_items":
 				[
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						"package control up",
+						"Package Control: Upgrade/Overwrite All Packages"
+					],
+					[
+						"package control list",
+						"Package Control: List Packages"
+					],
+					[
+						"sidebar",
+						"View: Toggle Side Bar"
+					],
+					[
+						"side",
+						"View: Toggle Side Bar"
+					],
 					[
 						"install",
 						"Package Control: Install Package"
@@ -344,14 +364,6 @@
 					[
 						"pacakge",
 						"Package Control: Upgrade/Overwrite All Packages"
-					],
-					[
-						"sidebar",
-						"View: Toggle Side Bar"
-					],
-					[
-						"side",
-						"View: Toggle Side Bar"
 					],
 					[
 						"Package Control: list",
@@ -382,7 +394,7 @@
 						"Package Control: Install Package"
 					]
 				],
-				"width": 400.0
+				"width": 440.0
 			},
 			"console":
 			{
@@ -399,9 +411,9 @@
 			},
 			"file_history":
 			[
+				"/C/Documents and Settings/bigginm/Application Data/Sublime Text 2/Packages/User/Package Control.sublime-settings",
 				"/C/Documents and Settings/bigginm/Application Data/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
 				"/C/Documents and Settings/bigginm/Application Data/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
-				"/C/Documents and Settings/bigginm/Application Data/Sublime Text 2/Packages/User/Package Control.sublime-settings",
 				"/C/Documents and Settings/bigginm/Application Data/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
 				"/C/Documents and Settings/bigginm/Application Data/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
 				"/C/Documents and Settings/bigginm/Application Data/Sublime Text 2/Packages/User/Preferences.sublime-settings",
@@ -498,6 +510,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"CreateTradeFromPartTradeEnricher",
 					"ctrl+",
 					"ctrl\\-",
 					"ctrl-",
@@ -593,6 +606,12 @@
 				"whole_word": false,
 				"wrap": true
 			},
+			"folders":
+			[
+				{
+					"path": "/C/bigginm/dev/action/source/fitp-server"
+				}
+			],
 			"groups":
 			[
 				{

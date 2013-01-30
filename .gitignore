@@ -1,0 +1,8 @@
+# VIM Temp Files #
+##################
+.netrwhist
+*.swp
+
+# Sublime Text 2 #
+##################
+*.sublime_license

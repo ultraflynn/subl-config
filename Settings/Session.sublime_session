@@ -1,6 +1,11 @@
 {
 	"folder_history":
 	[
+		"/C/Users/Matt/GitHub/javonical",
+		"/C/Users/Matt/GitHub/tba",
+		"/C/Users/Matt/GitHub/ws",
+		"/C/Users/Matt/GitHub/carbine",
+		"/C/Users/Matt/GitHub/ultraflynn.github.com",
 		"/C/bigginm/dev/action/source/fitp-server",
 		"/C/bigginm/lib/apache-camel-2.9.1",
 		"/C/bigginm/dev/action/PricapUpdate",
@@ -314,13 +319,37 @@
 			},
 			"buffers":
 			[
+				{
+					"file": "/C/Users/Matt/GitHub/javonical/README.md",
+					"settings":
+					{
+						"buffer_size": 2179,
+						"line_ending": "Windows"
+					}
+				}
 			],
 			"build_system": "Packages/Java/JavaC.sublime-build",
 			"command_palette":
 			{
-				"height": 392.0,
+				"height": 81.0,
 				"selected_items":
 				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"intall",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: list",
+						"Package Control: List Packages"
+					],
+					[
+						"togg",
+						"View: Toggle Side Bar"
+					],
 					[
 						":w",
 						":w - Save"
@@ -342,10 +371,6 @@
 						"View: Toggle Side Bar"
 					],
 					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
 						"packa",
 						"Package Control: Remove Package"
 					],
@@ -364,10 +389,6 @@
 					[
 						"pacakge",
 						"Package Control: Upgrade/Overwrite All Packages"
-					],
-					[
-						"Package Control: list",
-						"Package Control: List Packages"
 					],
 					[
 						"Package Control: insta",
@@ -394,7 +415,7 @@
 						"Package Control: Install Package"
 					]
 				],
-				"width": 440.0
+				"width": 512.0
 			},
 			"console":
 			{
@@ -411,6 +432,11 @@
 			},
 			"file_history":
 			[
+				"/C/Users/Matt/GitHub/tba/_posts/2013-01-25-sax-dance.markdown",
+				"/C/Users/Matt/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/C/Users/Matt/GitHub/carbine/lib/carbine/request.js",
+				"/C/Users/Matt/GitHub/carbine/lib/carbine.js",
+				"/C/Users/Matt/GitHub/ultraflynn.github.com/index.html",
 				"/C/Documents and Settings/bigginm/Application Data/Sublime Text 2/Packages/User/Package Control.sublime-settings",
 				"/C/Documents and Settings/bigginm/Application Data/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
 				"/C/Documents and Settings/bigginm/Application Data/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
@@ -609,14 +635,141 @@
 			"folders":
 			[
 				{
-					"path": "/C/bigginm/dev/action/source/fitp-server"
+					"path": "/C/Users/Matt/GitHub/ultraflynn.github.com"
+				},
+				{
+					"path": "/C/Users/Matt/GitHub/carbine"
+				},
+				{
+					"path": "/C/Users/Matt/GitHub/ws"
+				},
+				{
+					"path": "/C/Users/Matt/GitHub/tba"
+				},
+				{
+					"path": "/C/Users/Matt/GitHub/javonical"
 				}
 			],
 			"groups":
 			[
 				{
+					"selected": 0,
 					"sheets":
 					[
+						{
+							"buffer": 0,
+							"file": "/C/Users/Matt/GitHub/javonical/README.md",
+							"settings":
+							{
+								"buffer_size": 2179,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										712,
+										712
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/Markdown/Markdown.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
 					]
 				}
 			],
@@ -768,7 +921,7 @@
 			"show_minimap": true,
 			"show_open_files": false,
 			"show_tabs": true,
-			"side_bar_visible": false,
+			"side_bar_visible": true,
 			"side_bar_width": 294.0,
 			"status_bar_visible": true,
 			"window_id": 1,
